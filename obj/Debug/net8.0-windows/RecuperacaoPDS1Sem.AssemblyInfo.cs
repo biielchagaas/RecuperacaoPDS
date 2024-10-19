@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecuperacaoPDS1Sem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+038bf7587b00f155786adbcf9befbc3f6c64569e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0ec3d287d3b32c312182b5141329913bf431953")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecuperacaoPDS1Sem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecuperacaoPDS1Sem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
