@@ -1,0 +1,68 @@
+﻿<Window x:Class="RecuperacaoPDS1Sem.Views.ListarAluno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:RecuperacaoPDS1Sem.Views"
+        mc:Ignorable="d"
+        Title="ListarAluno" Height="880" Width="1500" WindowState="Maximized" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF7C7C7C" Offset="0.5"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+    
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+    
+        <StackPanel Grid.Row="0">
+            <Button
+                Height="60"
+                Width="200"
+                Margin="10"
+                HorizontalAlignment="Left"
+                materialDesign:ButtonAssist.CornerRadius="5"
+                IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                Style="{StaticResource MaterialDesignRaisedButton}"
+                ToolTip="MaterialDesignRaisedButton with Round Corners" Click="IrParaMenuListar">
+            
+                <WrapPanel>
+                    <Label 
+                        Content="Voltar" 
+                        FontFamily="Century"
+                        Foreground="White" 
+                        FontWeight="Bold" 
+                        VerticalAlignment="Center"
+                        FontSize="30"/>
+                </WrapPanel>
+            </Button>
+        </StackPanel>
+    
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="20">
+            <DataGrid 
+                Height="745"
+                Width="1455"
+                FontFamily="Century Gothic"
+                FontSize="25"
+                x:Name="Lista"
+                AutoGenerateColumns="False"
+                VerticalAlignment="Bottom"
+                >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Nome" Binding="{Binding Nome}" Width="*" />
+                    <DataGridTextColumn Header="CPF" Binding="{Binding Cpf}" Width="*"/>
+                    <DataGridTextColumn Header="Data de Nascimento" Binding="{Binding DataNasc}" Width="*"/>
+                    <DataGridTextColumn Header="Telefone" Binding="{Binding Telefone}" Width="*"/>
+                    <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="*"/>
+                    <DataGridTextColumn Header="Endereço" Binding="{Binding Endereco}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

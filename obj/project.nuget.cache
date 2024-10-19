@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0LqyC6sEOM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\RecuperacaoPDS1Sem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

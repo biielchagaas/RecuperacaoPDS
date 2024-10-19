@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\listaraluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\listaraluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\cadastraraluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\cadastraraluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\cadastraraluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\cadastraraluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\listaraluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\listaraluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\listarescola.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\listarescola.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\cadastrarescola.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\cadastrarescola.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\cadastrarcurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\cadastrarcurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\cadastrarcurso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\cadastrarcurso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\listarcurso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\listarcurso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\menulistar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\menulistar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\menulistar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\menulistar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\listarescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\listarescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\cadastrarescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\cadastrarescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\listarcurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\listarcurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\menucadastrar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\menucadastrar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\menucadastrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\menucadastrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|c:\\users\\gabri\\source\\repos\\recuperacaopds1sem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D86DACE8-AECE-4302-AA4C-AC2137D15C0D}|RecuperacaoPDS1Sem.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 177,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarAluno.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarAluno.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ListarAluno.xaml.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarAluno.xaml.cs",
+              "RelativeToolTip": "Views\\ListarAluno.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:47:42.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarAluno.xaml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarAluno.xaml",
+              "RelativeDocumentMoniker": "Views\\ListarAluno.xaml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarAluno.xaml",
+              "RelativeToolTip": "Views\\ListarAluno.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T02:41:59.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListarCurso.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarCurso.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ListarCurso.xaml.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarCurso.xaml.cs",
+              "RelativeToolTip": "Views\\ListarCurso.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:15:22.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListarCurso.xaml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarCurso.xaml",
+              "RelativeDocumentMoniker": "Views\\ListarCurso.xaml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarCurso.xaml",
+              "RelativeToolTip": "Views\\ListarCurso.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T02:12:13.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CadastrarCurso.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarCurso.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CadastrarCurso.xaml.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarCurso.xaml.cs",
+              "RelativeToolTip": "Views\\CadastrarCurso.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA1wBcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:01:53.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuListar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\MenuListar.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MenuListar.xaml.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\MenuListar.xaml.cs",
+              "RelativeToolTip": "Views\\MenuListar.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:06:47.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuListar.xaml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\MenuListar.xaml",
+              "RelativeDocumentMoniker": "Views\\MenuListar.xaml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\MenuListar.xaml",
+              "RelativeToolTip": "Views\\MenuListar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T01:05:07.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListarEscola.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarEscola.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ListarEscola.xaml.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarEscola.xaml.cs",
+              "RelativeToolTip": "Views\\ListarEscola.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:59:10.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastrarEscola.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarEscola.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CadastrarEscola.xaml.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarEscola.xaml.cs",
+              "RelativeToolTip": "Views\\CadastrarEscola.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:44:26.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuCadastrar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\MenuCadastrar.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MenuCadastrar.xaml.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\MenuCadastrar.xaml.cs",
+              "RelativeToolTip": "Views\\MenuCadastrar.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:58:36.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\Menu.xaml.cs",
+              "RelativeToolTip": "Views\\Menu.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:54:03.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuCadastrar.xaml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\MenuCadastrar.xaml",
+              "RelativeDocumentMoniker": "Views\\MenuCadastrar.xaml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\MenuCadastrar.xaml",
+              "RelativeToolTip": "Views\\MenuCadastrar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T23:40:27.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListarEscola.xaml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarEscola.xaml",
+              "RelativeDocumentMoniker": "Views\\ListarEscola.xaml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\ListarEscola.xaml",
+              "RelativeToolTip": "Views\\ListarEscola.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T22:38:49.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadastrarCurso.xaml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarCurso.xaml",
+              "RelativeDocumentMoniker": "Views\\CadastrarCurso.xaml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarCurso.xaml",
+              "RelativeToolTip": "Views\\CadastrarCurso.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T22:13:26.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CadastrarEscola.xaml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarEscola.xaml",
+              "RelativeDocumentMoniker": "Views\\CadastrarEscola.xaml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarEscola.xaml",
+              "RelativeToolTip": "Views\\CadastrarEscola.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T21:54:57.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-18T20:49:47.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastrarAluno.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarAluno.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CadastrarAluno.xaml.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarAluno.xaml.cs",
+              "RelativeToolTip": "Views\\CadastrarAluno.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:54:50.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastrarAluno.xaml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarAluno.xaml",
+              "RelativeDocumentMoniker": "Views\\CadastrarAluno.xaml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\CadastrarAluno.xaml",
+              "RelativeToolTip": "Views\\CadastrarAluno.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T21:05:26.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T20:46:34.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\Menu.xaml",
+              "RelativeDocumentMoniker": "Views\\Menu.xaml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\RecuperacaoPDS1Sem\\Views\\Menu.xaml",
+              "RelativeToolTip": "Views\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T20:42:31.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
